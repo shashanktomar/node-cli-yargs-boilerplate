@@ -12,3 +12,4 @@ A boiler-plate repo for quick cli apps in nodejs. It uses:
 * `npm install`
 * either run `npm run build:link` and `node-cli`
 * or `npm run build` and `node build/index`
+![](https://github.com/shashanktomar/node-cli/blob/master/assets/node-cli.gif)
