@@ -1,6 +1,6 @@
 {
-  "name": "node-cli",
-  "version": "0.1.0",
+  "name": "node-cli-yargs-boilerplate",
+  "version": "1.0.0",
   "description": "A boilerpate for cli app with subcommands.",
   "main": "index.js",
   "repository": "git+https://github.com/shashanktomar/node-cli.git",
